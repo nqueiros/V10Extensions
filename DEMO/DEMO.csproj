@@ -238,8 +238,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GLOBAL\UtilLigacaoCBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Vendas.cs" />
+    <Compile Include="SALES\Vendas.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

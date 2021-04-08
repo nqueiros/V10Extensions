@@ -15,9 +15,9 @@ namespace DEMO
         {
             base.AntesDeGravar(ref Cancel, e);
 
-            PSO.Dialogos.MostraMensagem(StdPlatBS100.StdBSTipos.TipoMsg.PRI_SimplesOk, "Não pode gravar.", StdPlatBS100.StdBSTipos.IconId.PRI_Exclama);
+            //PSO.Dialogos.MostraMensagem(StdPlatBS100.StdBSTipos.TipoMsg.PRI_SimplesOk, "Não pode gravar.", StdPlatBS100.StdBSTipos.IconId.PRI_Exclama);
 
-            Cancel = true;
+            //Cancel = true;
         }
     }
 }
