@@ -1,0 +1,10 @@
+C:\Users\nuno.queiros\source\repos\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\nuno.queiros\source\repos\DEMO\bin\Debug\DEMO.dll
+C:\Users\nuno.queiros\source\repos\DEMO\bin\Debug\DEMO.pdb
+C:\Users\nuno.queiros\source\repos\DEMO\obj\Debug\DEMO.dll
+C:\Users\nuno.queiros\source\repos\DEMO\obj\Debug\DEMO.pdb
+C:\Users\nuno.queiros\source\repos\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\nuno.queiros\source\repos\nqueiros\V10Extensions\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\nuno.queiros\source\repos\nqueiros\V10Extensions\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\nuno.queiros\source\repos\nqueiros\V10Extensions\DEMO\obj\Debug\DEMO.dll
+C:\Users\nuno.queiros\source\repos\nqueiros\V10Extensions\DEMO\obj\Debug\DEMO.pdb
